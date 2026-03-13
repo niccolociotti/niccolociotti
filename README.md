@@ -12,9 +12,6 @@ and I am currently pursuing a Master's degree in the same field.
 Polytechnic University of Ancona (Italy), where I explore topics including:
 Machine Learning, Computer Vision, Deep Learning, Big Data and Backend Development.
 
-🧠 My Bachelor's thesis focused on **AI use cases**: Chatbot development,
-Image Recognition and Text Extraction from Images.
-
 ---
 
 ## 🔧 Skills

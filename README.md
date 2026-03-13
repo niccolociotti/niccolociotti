@@ -12,26 +12,6 @@ and I am currently pursuing a Master's degree in the same field.
 Polytechnic University of Ancona (Italy), where I explore topics including:
 Machine Learning, Computer Vision, Deep Learning, Big Data and Backend Development.
 
-
----
-
-Ecco il README aggiornato con le icone usando i badge di shields.io:
-
-text
-## Hi there 👋 I'm Niccolò Ciotti!
-
-I have a Bachelor's degree in Computer and Automation Engineering from the
-Polytechnic University of Ancona (Italy) with a grade of **106/110**,
-and I am currently pursuing a Master's degree in the same field.
-
----
-
-## 🚀 About Me
-
-🎓 I'm currently studying **Computer and Automation Engineering** at the
-Polytechnic University of Ancona (Italy), where I explore topics including:
-Machine Learning, Computer Vision, Deep Learning, Big Data and Backend Development.
-
 🧠 My Bachelor's thesis focused on **AI use cases**: Chatbot development,
 Image Recognition and Text Extraction from Images.
 
